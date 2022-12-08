@@ -1,4 +1,19 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Todo App with API
+You can organize your day with this app
+.
+
+Just try - [DEMO LINK](https://artem-nasadchuk.github.io/todo-app/).
+
+Functionality:
+- Authorization by email and saving your personal todos.
+- Adding and deleting todos
+- Renaming todos by double-clicking.
+- Filter todos by All/Active/Completed status
+- Clear all completed todos.
+
+Technologies:
+- React
+- Typescript
+- Bulma
+- REST API
+- SASS(SCSS)
